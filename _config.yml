@@ -27,3 +27,12 @@ author:              'Matheus Queiroz'
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
+
+# excludes posts bundled in theme
+exclude: [
+  '2013-04-04-about-the-author.md',
+  '2013-10-10-learning-resources',
+  '2014-01-01-text-formatting-examples.md',
+  '2015-10-10-getting-started.md',
+  '2016-01-01-welcome-to-lagrange.md'
+]
