@@ -30,9 +30,9 @@ author:              'Matheus Queiroz'
 
 # excludes posts bundled in theme
 exclude: [
-  '2013-04-04-about-the-author.md',
-  '2013-10-10-learning-resources',
-  '2014-01-01-text-formatting-examples.md',
-  '2015-10-10-getting-started.md',
-  '2016-01-01-welcome-to-lagrange.md'
+  '_posts/2013-04-04-about-the-author.md',
+  '_posts/2013-10-10-learning-resources',
+  '_posts/2014-01-01-text-formatting-examples.md',
+  '_posts/2015-10-10-getting-started.md',
+  '_posts/2016-01-01-welcome-to-lagrange.md'
 ]
