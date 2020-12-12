@@ -156,6 +156,25 @@ hr {
   font-family: 'Quattrocento Sans', sans-serif;
   font-size:1rem;
 }
+
+.post-tag {
+  font-family: 'Quattrocento Sans', sans-serif;
+  margin-bottom: 1rem;
+}
+
+.post-tag a {
+  padding: 4px 8px;
+  background-color: #BDBDBD;
+  border-radius: 4px;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: bold;
+  transition: 0.3s ease;
+  text-decoration: none;
+}
+
+.post-tag a:hover {
+  background-color: #9a9a9a;
 }
 
 @media (max-width: 30rem) {
