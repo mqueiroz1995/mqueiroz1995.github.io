@@ -28,6 +28,10 @@ social:
     - https://github.com/mqueiroz1995
     - https://twitter.com/mqueiroz1995
     - https://www.linkedin.com/in/mmelloqueiroz/
+
+include:
+  - robots.txt
+
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
