@@ -359,9 +359,23 @@ th, td {
   Social media icons
 */
 
-.sharing-icons a {
-  padding-right: 10px;
+.sharing-icons {
+  margin-top: 1rem;
 }
+
+.sharing-icons a {
+  font-family: 'Quattrocento Sans', sans-serif;
+  text-decoration: none;
+}
+
+.sharing-icons a i {
+  padding-right: 16px;
+}
+
+.sharing-icons a:hover {
+  text-decoration: underline;
+}
+
 
 .fa-envelope {
   padding: 5px;
