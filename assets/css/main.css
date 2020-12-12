@@ -258,7 +258,7 @@ hr {
 }
 
 .menu-content {
-  float: left;
+  float: inline-start;
 }
 
 .menu-content a {
@@ -268,7 +268,7 @@ hr {
 }
 
 .social-icons {
-  float: right;
+  float: inline-end;
 }
 
 .social-icons a {
@@ -278,11 +278,13 @@ hr {
 
 @media (max-width: 30em) {
   .social-icons {
-    float: left;
+    float: inline-end;
     padding-top: 0px;
   }
+
   .menu-content {
     margin-bottom: 5px;
+    float: inline-start;
   }
 }
 
