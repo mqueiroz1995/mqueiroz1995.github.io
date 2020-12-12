@@ -1,5 +1,12 @@
 # Site Build Settings
 
+url:                 https://mqueiroz.me
+favicon:             favicon.ico
+title:		           Matheus Queiroz
+tagline:             ''
+description:	       ''
+author:              Matheus Queiroz
+timezone:            America/Sao_Paulo
 
 # Build settings
 markdown:            kramdown
@@ -7,10 +14,6 @@ highlighter:         rouge
 permalink:           /:slug
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
-# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Matheus Queiroz'
-description:	       ''
-author:              'Matheus Queiroz'
 # jekyll-paginate configuration
 paginate:            5
 paginate_path: /page/:num/
