@@ -3,8 +3,7 @@
 url:                 https://mqueiroz.me
 favicon:             favicon.ico
 title:		           Matheus Queiroz
-tagline:             Essays on whatever makes me curious enough to write.
-description:	       Hello and welcome to my blog! Here you will find content mostly about Software Engineering but also about anything that makes me curious enough to write.
+tagline:             Tales about a Software Engineering career
 author:              Matheus Queiroz
 timezone:            America/Sao_Paulo
 
@@ -35,15 +34,13 @@ social:
 include:
   - robots.txt
 
+exclude:
+  - _posts/2013-04-04-about-the-author.md
+  - _posts/2013-10-10-learning-resources
+  - _posts/2014-01-01-text-formatting-examples.md
+  - _posts/2015-10-10-getting-started.md
+  - _posts/2016-01-01-welcome-to-lagrange.md
+
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
-
-# excludes posts bundled in theme
-exclude: [
-  '_posts/2013-04-04-about-the-author.md',
-  '_posts/2013-10-10-learning-resources',
-  '_posts/2014-01-01-text-formatting-examples.md',
-  '_posts/2015-10-10-getting-started.md',
-  '_posts/2016-01-01-welcome-to-lagrange.md'
-]
