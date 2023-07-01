@@ -13,39 +13,39 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: "America/Sao_Paulo"
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Matheus Queiroz # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Essays about life. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Personal website to share thoughts about life.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://mqueiroz.me"
 
 github:
-  username: github_username # change to your github username
+  username: mqueiroz1995 # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: mqueiroz1995 # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: Matheus Queiroz
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://twitter.com/mqueiroz1995 # change to your twitter homepage
+    - https://github.com/mqueiroz1995 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/mmelloqueiroz
 
 google_site_verification: # fill in to your verification string
 
