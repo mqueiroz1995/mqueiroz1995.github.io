@@ -6,8 +6,6 @@ tags: [software_engineering]
 pin: true
 ---
 
-# Second Brain
-
 As someone with not so good memory, once in a while, I fall into the rabbit hole of trying to find content that I consumed in the past that can help me to achieve something I'm trying to.
 
 This page tries to collect those golden nuggets of knowledge somewhere I can easily recall afterward.
