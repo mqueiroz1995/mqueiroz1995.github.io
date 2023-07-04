@@ -20,10 +20,10 @@ timezone: "America/Sao_Paulo"
 
 title: Matheus Queiroz # the main title
 
-tagline: Essays about life. # it will display as the sub-title
+tagline: My mind's syrup. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Personal website to share thoughts about life.
+  Thoughts about life: career, software engineering and anything worth writing about.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://mqueiroz.me"
