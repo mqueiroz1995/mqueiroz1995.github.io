@@ -18,12 +18,12 @@ timezone: "America/Sao_Paulo"
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Matheus Queiroz # the main title
+title: Matheus' mind distillery # the main title
 
-tagline: My mind's syrup. # it will display as the sub-title
+tagline: # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Thoughts about life: career, software engineering and anything worth writing about.
+  About life, software engineering career and anything worth writing about.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://mqueiroz.me"
@@ -38,7 +38,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Matheus Queiroz
-  email: example@domain.com # change to your email address
+  # email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/mqueiroz1995 # change to your twitter homepage
