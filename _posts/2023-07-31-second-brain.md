@@ -5,6 +5,9 @@ categories: [second-brain]
 tags: [software_engineering]
 ---
 
+> Content is dated by the time I read it, and not by the time it was published.
+{: .prompt-info }
+
 As someone with not so good memory, once in a while, I fall into the rabbit hole of trying to find content that I consumed in the past that can help me to achieve something I'm trying to.
 
 This page tries to collect those golden nuggets somewhere I can easily recall afterward.
@@ -19,9 +22,19 @@ This page tries to collect those golden nuggets somewhere I can easily recall af
 
 #### [Becoming A Successful Android Open-Source Librarian](https://proandroiddev.com/becoming-a-successful-open-source-librarian-3a008b50b808)
 
+#### [Demystifying the ANRs Puzzle](https://www.amanjeet.me/demystifying-the-anrs-puzzle/)
+
 ## 2021
 
+#### [Herding Elephants - Wrangling a 3,500-module Gradle project](https://developer.squareup.com/blog/herding-elephants/)
+
+#### [The Age of the Essay](http://www.paulgraham.com/essay.html)
+
+#### [Modelling UI State on Android](https://lordraydenmk.github.io/2021/modelling-ui-state/)
+
 ## 2020
+
+#### [Let me write your networking code](https://www.droidcon.com/2019/04/19/let-me-write-your-networking-code/?video%253D334638371)
 
 #### [Dependency Analysis Gradle Plugin: What's an ABI?](https://dev.to/autonomousapps/dependency-analysis-gradle-plugin-what-s-an-abi-3l2h)
 
@@ -35,9 +48,13 @@ This page tries to collect those golden nuggets somewhere I can easily recall af
 
 #### [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
 
+#### [Android Feature Development at Babylon Health](https://medium.com/babylon-engineering/android-feature-development-at-babylon-health-part-1-thinking-about-the-problem-d1b68521350c)
+
 #### [Let a 1,000 flowers bloom. Then rip 999 of them out by the roots.](https://gigamonkeys.com/flowers/)
 
 ## 2019
+
+#### [Death, Taxes, and HTTP](https://www.youtube.com/watch?v%253D6uroXz5l7Gk)
 
 #### [Shape Up - Stop Running in Circles and Ship Work that Matters ](https://basecamp.com/shapeup)
 
