@@ -5,7 +5,7 @@ categories: [career]
 tags: [career]
 ---
 
-# On engineering problems
+## Engineering problems
 
 I love to solve problems. But not every kind of problem.
 
@@ -27,7 +27,7 @@ Interestingly, not every problem fitting this description is technical — desig
 
 ---
 
-# My career on Android development
+## My career on Android development
 
 In my 10-year software engineering career, I've explored various technologies but devoted most of my time to Android development.
 
