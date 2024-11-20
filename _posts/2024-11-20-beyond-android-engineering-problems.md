@@ -45,6 +45,6 @@ Software engineering continues to excite me after a decade because it continues 
 
 [^1]: In the 50s I would never have said that Von Neumann's architecture would be as useful as it is today. Also, in my college classes in 2015ish, I would never have said ML would be as useful and generalized as it is today.
 
-[^2]: Don't feel surprised if you see tending more to the side of science in the future.
+[^2]: Don't feel surprised if you see me tending more to the side of science in the future.
 
 [^3]: Not every problem needs a mobile client. Those that need one might use alternatives to native Android development.
