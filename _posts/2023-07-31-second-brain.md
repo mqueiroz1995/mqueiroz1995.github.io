@@ -1,38 +1,41 @@
 ---
-title: Recommended Stuff - Software Engineering Edition
+title: Link Blog
 date: 2023-07-03 23:00:00 -0300
 categories: [second-brain]
 tags: [software_engineering]
+pin: true
 ---
 
-> Content is dated by the time I read it, and not by the time it was published.
-{: .prompt-info }
+Once in a while I fall into the rabbit hole of trying to find content that I've seen in the past. This page tries to collect those golden nuggets somewhere I can easily recall afterward.
 
-As someone with not so good memory, once in a while, I fall into the rabbit hole of trying to find content that I consumed in the past that can help me to achieve something I'm trying to.
+### 2025
 
-This page tries to collect those golden nuggets somewhere I can easily recall afterward.
+#### [Simon Willisons’s Approach to Running a Link Blog](https://simonwillison.net/2024/Dec/22/link-blog/)
+**January 5, 2025** | #writing
 
-## 2023
+This page previous title was "Recommended Stuff - Software Engineering edition". 
+
+It was sort of a link blog, but I didn't know this concept existed before reading his article. 
+
+Simon's approach is interesting because it enrichs the content with tags, comments. He is also a nice guy and tries to spotlight the author. 
+
+I stopped updating this page a long time ago, but I got inspired by his post to start doing it again, in a better way.
+
+## Previous
 
 #### [Injection Points](https://marcellogalhardo.dev/posts/injection-points/)
 
 #### [droidcon NYC 2017 - Tech Talks for Humans](https://www.youtube.com/watch?v%253Dd5HYGu_UBNo)
 
-## 2022 
-
 #### [Becoming A Successful Android Open-Source Librarian](https://proandroiddev.com/becoming-a-successful-open-source-librarian-3a008b50b808)
 
 #### [Demystifying the ANRs Puzzle](https://www.amanjeet.me/demystifying-the-anrs-puzzle/)
-
-## 2021
 
 #### [Herding Elephants - Wrangling a 3,500-module Gradle project](https://developer.squareup.com/blog/herding-elephants/)
 
 #### [The Age of the Essay](http://www.paulgraham.com/essay.html)
 
 #### [Modelling UI State on Android](https://lordraydenmk.github.io/2021/modelling-ui-state/)
-
-## 2020
 
 #### [Let me write your networking code](https://www.droidcon.com/2019/04/19/let-me-write-your-networking-code/?video%253D334638371)
 
@@ -52,23 +55,17 @@ This page tries to collect those golden nuggets somewhere I can easily recall af
 
 #### [Let a 1,000 flowers bloom. Then rip 999 of them out by the roots.](https://gigamonkeys.com/flowers/)
 
-## 2019
-
 #### [Death, Taxes, and HTTP](https://www.youtube.com/watch?v%253D6uroXz5l7Gk)
 
 #### [Shape Up - Stop Running in Circles and Ship Work that Matters ](https://basecamp.com/shapeup)
 
 #### [Surfacing Hidden Change to Pull Requests](https://developer.squareup.com/blog/surfacing-hidden-change-to-pull-requests/)
 
-## 2018
-
 #### [Growing Object-Oriented Software, Guided by Tests](https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627)
 
 #### [Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
 
 #### [Code Complete: A Practical Handbook of Software Construction, Second Edition](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
-
-## 2017
 
 #### [The Pragmatic Programmer: From Journeyman to Master](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
 
