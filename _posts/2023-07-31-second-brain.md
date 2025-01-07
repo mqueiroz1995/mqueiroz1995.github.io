@@ -8,18 +8,19 @@ pin: true
 
 Once in a while I fall into the rabbit hole of trying to find content that I've seen in the past. This page tries to collect those golden nuggets somewhere I can easily recall afterward.
 
-### 2025
+{% assign posts_by_year = site.data.linkblog | group_by_exp: "post", "post.date | date: '%Y'" | sort: "name" | reverse %}
+{% for year in posts_by_year %}
+### {{ year.name }}
 
-#### [Simon Willisons’s Approach to Running a Link Blog](https://simonwillison.net/2024/Dec/22/link-blog/)
-**January 5, 2025** | #writing
+{% assign sorted_posts = year.items | sort: 'date' | reverse %}
+{% for post in sorted_posts %}
+#### [{{ post.title }}]({{ post.link }})
+<small>{{ post.date | date: "%Y-%m-%d" }} </small>
 
-This page previous title was "Recommended Stuff - Software Engineering edition". 
+{{ post.comment }}
 
-It was sort of a link blog, but I didn't know this concept existed before reading his article. 
-
-Simon's approach is interesting because it enrichs the content with tags, comments. He is also a nice guy and tries to spotlight the author. 
-
-I stopped updating this page a long time ago, but I got inspired by his post to start doing it again, in a better way.
+{% endfor %}
+{% endfor %}
 
 ## Previous
 

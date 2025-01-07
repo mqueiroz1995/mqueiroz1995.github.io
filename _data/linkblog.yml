@@ -1,0 +1,21 @@
+- title: Sean Goedecke's How I ship projects at big tech companies
+  link: https://www.seangoedecke.com/how-to-ship/
+  date: 2025-01-06
+  tags: [leadership, engineering]
+  comment: |
+    Interesting article and relates to what I've seen working in practice. 
+
+    However, at some point engineers should start to dictate the direction as well. It shouldn't be about making your superiors happy, it should be about generating business value and engineering takes a big role in that. Your superiors won't have enough detail to prioritize a engineering roadmap. Engineers should fill that gap.
+
+- title: Simon Willisons’s Approach to Running a Link Blog
+  link: https://simonwillison.net/2024/Dec/22/link-blog/
+  date: 2025-01-05
+  tags: [writing]
+  comment: |
+    This page previous title was "Recommended Stuff - Software Engineering edition". 
+
+    It was sort of a link blog, but I didn't know this concept existed before reading Simon's post. 
+
+    His approach is interesting because it enrichs the content with tags, comments. He is also a nice guy and tries to spotlight the author. 
+
+    I stopped updating this page a long time ago, but I got inspired by his post to start doing it again, in a better way.
